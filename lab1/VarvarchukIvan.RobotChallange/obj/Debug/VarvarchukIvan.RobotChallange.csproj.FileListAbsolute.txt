@@ -1,0 +1,9 @@
+C:\Users\IvanPC\Desktop\KPZ\kpz\lab1\VarvarchukIvan.RobotChallange\obj\Debug\VarvarchukIvan.RobotChallange.csprojAssemblyReference.cache
+C:\Users\IvanPC\Desktop\KPZ\kpz\lab1\VarvarchukIvan.RobotChallange\obj\Debug\VarvarchukIvan.RobotChallange.csproj.CoreCompileInputs.cache
+C:\Users\IvanPC\Desktop\KPZ\kpz\lab1\VarvarchukIvan.RobotChallange\bin\Debug\VarvarchukIvan.RobotChallange.dll
+C:\Users\IvanPC\Desktop\KPZ\kpz\lab1\VarvarchukIvan.RobotChallange\bin\Debug\VarvarchukIvan.RobotChallange.pdb
+C:\Users\IvanPC\Desktop\KPZ\kpz\lab1\VarvarchukIvan.RobotChallange\bin\Debug\Robot.Common.dll
+C:\Users\IvanPC\Desktop\KPZ\kpz\lab1\VarvarchukIvan.RobotChallange\bin\Debug\Robot.Tournament.dll
+C:\Users\IvanPC\Desktop\KPZ\kpz\lab1\VarvarchukIvan.RobotChallange\obj\Debug\VarvarchukIvan.RobotChallange.csproj.CopyComplete
+C:\Users\IvanPC\Desktop\KPZ\kpz\lab1\VarvarchukIvan.RobotChallange\obj\Debug\VarvarchukIvan.RobotChallange.dll
+C:\Users\IvanPC\Desktop\KPZ\kpz\lab1\VarvarchukIvan.RobotChallange\obj\Debug\VarvarchukIvan.RobotChallange.pdb
